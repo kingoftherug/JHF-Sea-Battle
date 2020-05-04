@@ -59,5 +59,6 @@ public class DotComBust {
         DotComBust game = new DotComBust();
         game.setUpGame();
         game.startPlaying();
+        //ЗДЕСЬ НЕТ НЕОБХОДИМОЙ ПРОВЕРКИ Я ТОПЛЮ ВСЁ ПОДРЯД!!!
     }
 }
